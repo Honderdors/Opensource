@@ -1,0 +1,13 @@
+{
+  "type": "record",
+  "name": "iextradingnews",
+  "fields": 
+  [
+    {"name": "datetime", "type": ["string","null"]},
+    {"name": "headline", "type": ["string","null"]},
+    {"name": "source", "type": ["string","null"]},
+    {"name": "url", "type": ["string","null"]},
+    {"name": "related", "type": ["string","null"]},
+    {"name": "image", "type": ["string","null"]}
+  ]
+  }
